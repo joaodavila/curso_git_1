@@ -3,6 +3,8 @@ console.log('xyz');
 console.log('finalizando esta parte');
 
 function addCart(produto){
-    cart = {}
+    cart = {};
     return cart;
 }
+
+console.log('inserindo mais uma linha no arquivo');
