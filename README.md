@@ -9,4 +9,4 @@ Checkout, listagem de produtos, Tela de Contatos, Busca por descricao
 
 #### Melhorias do projeto:
 - Melhoria de performance nas *buscas*
-- Melhoria de Usabilidade nos componentes das telas
+- _Melhoria de Usabilidade nos componentes das telas_
