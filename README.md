@@ -23,3 +23,15 @@ Vamos criar **novas funcionalidades** para o projeto
 
 #### Imagem externa
 ![Logo Java externo](https://img.ibxk.com.br/materias/7204960/56172.jpg?ims=328x)
+
+## Links interessantes
+- [Tutorial Java](https://www.w3schools.com/java/default.asp)
+- [Tutorial Spring](https://www.baeldung.com/spring-tutorial)
+- [Tutorial HTML](https://www.w3schools.com/html/)
+
+## Codigo da função soma
+```javascript
+function soma(a,b){
+    return a + b;
+}
+```
