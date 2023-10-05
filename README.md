@@ -19,7 +19,7 @@ Vamos criar **novas funcionalidades** para o projeto
 
 #### Imagem local
 
-![Logo Python](img_java.png)
+![Logo Java](img_java.png)
 
 #### Imagem externa
 ![Logo Java externo](https://img.ibxk.com.br/materias/7204960/56172.jpg?ims=328x)
