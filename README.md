@@ -17,6 +17,17 @@ Vamos criar **novas funcionalidades** para o projeto
 - Melhoria de __performance__ nas *buscas*
 * _Melhoria de Usabilidade nos componentes das telas_
 
+## Codigo da função soma
+```javascript
+function soma(a,b){
+    return a + b;
+}
+```
+## Lista de tarefas a fazer:
+- [x] Checkout
+- [ ] Listagem de produtos
+- [ ] Tela de Contatos
+- [x] Busca de produtos por descrição
 #### Imagem local
 
 ![Logo Java](img_java.png)
@@ -29,9 +40,4 @@ Vamos criar **novas funcionalidades** para o projeto
 - [Tutorial Spring](https://www.baeldung.com/spring-tutorial)
 - [Tutorial HTML](https://www.w3schools.com/html/)
 
-## Codigo da função soma
-```javascript
-function soma(a,b){
-    return a + b;
-}
-```
+
