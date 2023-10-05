@@ -7,7 +7,7 @@ Vamos criar **novas funcionalidades** para o projeto
 
 1. Checkout
 2. Listagem de produtos
-    1. Novos produtos (lancamentos)
+    1. Novos produtos (lançamentos)
     2. Promoções
     3. Produtos gourmet
 4. Tela de Contatos
